@@ -7,7 +7,7 @@ This project involves analyzing a relational PostgreSQL database of a digital mu
 * Identify best-selling genres and top-performing artists
 * Extract insights to support marketing and inventory planning.
 * 
-##Tools used
+## Tools used
 * PostgreSQL (SQL)
 * pgAdmin 4
 
